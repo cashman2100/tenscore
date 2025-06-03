@@ -1,0 +1,25 @@
+Line 37: Class RichTextLib.RichTextBox of control Text5 was not a loaded control class.
+Line 110: Class RichTextLib.RichTextBox of control Text6 was not a loaded control class.
+Line 124: Class InetCtlsObjects.Inet of control Inet1 was not a loaded control class.
+Line 172: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 44: The property name _ExtentX in Text5 is invalid.
+Line 45: The property name _ExtentY in Text5 is invalid.
+Line 46: The property name _Version in Text5 is invalid.
+Line 48: The property name ScrollBars in Text5 is invalid.
+Line 49: The property name TextRTF in Text5 is invalid.
+Line 117: The property name _ExtentX in Text6 is invalid.
+Line 118: The property name _ExtentY in Text6 is invalid.
+Line 119: The property name _Version in Text6 is invalid.
+Line 121: The property name ScrollBars in Text6 is invalid.
+Line 122: The property name TextRTF in Text6 is invalid.
+Line 127: The property name _ExtentX in Inet1 is invalid.
+Line 128: The property name _ExtentY in Inet1 is invalid.
+Line 129: The property name _Version in Inet1 is invalid.
+Line 130: The property name Protocol in Inet1 is invalid.
+Line 131: The property name RemoteHost in Inet1 is invalid.
+Line 132: The property name URL in Inet1 is invalid.
+Line 133: The property name Document in Inet1 is invalid.
+Line 178: The property name _ExtentX in ProgressBar1 is invalid.
+Line 179: The property name _ExtentY in ProgressBar1 is invalid.
+Line 180: The property name _Version in ProgressBar1 is invalid.
+Line 182: The property name Scrolling in ProgressBar1 is invalid.
